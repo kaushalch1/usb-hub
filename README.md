@@ -54,4 +54,8 @@ Its compact PCB design allows it to fit easily inside a backpack, laptop sleeve,
 - Add an LED power indicator
 - Design a custom 3D-printed enclosure
 - Support additional ports
+pcb
 <img width="698" height="368" alt="image" src="https://github.com/user-attachments/assets/fe45873e-2fd3-4178-ba3c-c415c9f3c436" />
+schematics
+<img width="1090" height="576" alt="image" src="https://github.com/user-attachments/assets/41fb2804-15ba-43cb-911d-32ce4567a306" />
+

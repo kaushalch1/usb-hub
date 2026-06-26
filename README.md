@@ -55,7 +55,8 @@ Its compact PCB design allows it to fit easily inside a backpack, laptop sleeve,
 - Design a custom 3D-printed enclosure
 - Support additional ports
 pcb
-<img width="698" height="368" alt="image" src="https://github.com/user-attachments/assets/fe45873e-2fd3-4178-ba3c-c415c9f3c436" />
+<img width="1090" height="577" alt="image" src="https://github.com/user-attachments/assets/b2a0f518-2d90-45a6-a085-c83de09ee3a3" />
 schematics
 <img width="1090" height="576" alt="image" src="https://github.com/user-attachments/assets/41fb2804-15ba-43cb-911d-32ce4567a306" />
+3d model
 

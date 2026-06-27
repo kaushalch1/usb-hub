@@ -59,4 +59,6 @@ pcb
 schematics
 <img width="1090" height="576" alt="image" src="https://github.com/user-attachments/assets/41fb2804-15ba-43cb-911d-32ce4567a306" />
 3d model
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/02e48863-90fc-470c-b8cd-616c337a6a29" />
+
 

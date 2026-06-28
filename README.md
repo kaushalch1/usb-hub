@@ -59,6 +59,9 @@ pcb
 schematics
 <img width="1090" height="576" alt="image" src="https://github.com/user-attachments/assets/41fb2804-15ba-43cb-911d-32ce4567a306" />
 3d model
-<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/02e48863-90fc-470c-b8cd-616c337a6a29" />
+<img width="1090" height="567" alt="image" src="https://github.com/user-attachments/assets/644e2033-c17a-4a82-b81e-68f015e1b6c7" />
+
+3d model top panel
+<img width="1090" height="573" alt="image" src="https://github.com/user-attachments/assets/571e03c7-337d-45dd-b4cb-61292e3ce4d3" />
 
 
